@@ -1,0 +1,233 @@
+area_id,AreaID,AnalysisAreaName,acres,job_spaces_orig,job_spaces_new,job_spaces_change,resunits_orig,resunits_new,resunits_change,density_hhemp_orig,density_hhemp_new,density_hhemp_change,City
+0,0,American Fork - AMERICAN FORK CRT NC,43.94782778,0,600,600,0,700,700,0,27,27,American Fork
+1,1,American Fork - Meadows,321.6558152,4500,6600,2100,200,2000,1800,15,27,12,American Fork
+2,2,American Fork - Timpanogos,117.049989,2300,3500,1200,0,1100,1100,20,40,20,American Fork
+5,5,Bluffdale - Independence,773.9087439,1600,8300,6700,800,7100,6300,3,20,17,Bluffdale
+6,6,Bluffdale - Prison Site,152.3495641,2000,6900,4900,0,2600,2600,13,62,49,Bluffdale
+7,7,Bountiful - 1100 North Center,24.79328886,400,500,100,0,200,200,16,32,16,Bountiful
+8,8,Bountiful - Bountiful 200 West,32.23165792,500,600,100,100,300,200,20,28,8,Bountiful
+9,9,Bountiful - Bountiful Downtown,70.60568119,2600,2900,300,200,500,300,39,48,9,Bountiful
+12,12,Centerville - Parrish Lane Center,102.7748345,2600,2800,200,0,500,500,25,32,7,Centerville
+13,13,Clearfield - CLEARFIELD CRT NC,123.8026937,300,1900,1600,100,2300,2200,3,34,31,Clearfield
+14,14,Clearfield - Downtown Clearfield,288.670532,3500,6900,3400,800,3600,2800,15,36,21,Clearfield
+15,15,Clearfield - East Antelope Center,301.0437912,2300,5200,2900,600,3400,2800,10,28,18,Clearfield
+16,16,Clearfield - Layton Midtown,166.7653309,1500,7100,5600,700,3600,2900,13,64,51,Clearfield
+17,17,Clearfield - Sunset SR 126,38.15140394,500,600,100,100,300,200,14,24,10,Clearfield
+18,18,Clearfield - Syracuse SR 193 Center,0.697024524,0,0,0,0,0,0,0,0,0,Clearfield
+19,19,Clinton - West Point 2000 West,0.352381444,0,0,0,0,0,0,0,26,26,Clinton
+20,20,Cottonwood Heights - Butler Park Center,65.76409193,0,0,0,0,0,0,1,1,0,Cottonwood Heights
+21,21,Cottonwood Heights - Cottonwood Heights Fort Union,55.63425667,1100,1200,100,100,300,200,22,26,4,Cottonwood Heights
+22,22,Cottonwood Heights - Cottonwood Heights Highland Drive,30.98399131,600,700,100,100,100,0,24,25,1,Cottonwood Heights
+23,23,Cottonwood Heights - Old Mill,277.2543312,9700,11100,1400,0,700,700,35,43,8,Cottonwood Heights
+24,24,Cottonwood Heights - Union Park,214.2984418,4700,5000,300,1500,1800,300,29,32,3,Cottonwood Heights
+25,25,Draper - CRESCENT VIEW LRT NC,28.23912568,0,0,0,100,100,0,3,6,3,Draper
+26,26,Draper - Draper City Center,107.9778841,1400,3000,1600,0,1500,1500,14,42,28,Draper
+27,27,Draper - DRAPER CRT NC,69.21868726,0,200,200,100,300,200,2,7,5,Draper
+28,28,Draper - DRAPER TOWN CENTER LRT NC,41.72175602,900,1000,100,0,200,200,22,29,7,Draper
+29,29,Draper - Highline,152.0417709,0,2500,2500,0,2300,2300,0,31,31,Draper
+31,31,Draper - KIMBALLS LANE LRT NC,83.78682099,200,700,500,200,800,600,4,18,14,Draper
+32,32,Draper - Prison Site,703.4578224,100,5900,5800,0,2900,2900,0,13,13,Draper
+33,33,Draper - The Cairns,6.463117321,0,200,200,0,100,100,5,57,52,Draper
+34,34,Draper - Vista Station,340.0905714,900,9400,8500,400,7200,6800,4,49,45,Draper
+35,35,Eagle Mountain - Eagle Mountain,476.6390529,200,7800,7600,200,7300,7100,1,32,31,Eagle Mountain
+36,36,Farmington - East Park Lane,101.4942504,100,2000,1900,0,1800,1800,1,37,36,Farmington
+37,37,Farmington - FARMINGTON CRT NC,55.97008768,200,500,300,0,300,300,4,13,9,Farmington
+38,38,Farmington - Station Park/North Station,790.0748441,2400,31600,29200,100,14900,14800,3,59,56,Farmington
+39,39,Harrisville - Five Points,9.832254626,100,100,0,0,0,0,6,12,6,Harrisville
+40,40,Harrisville - Harrisville US 89,162.210625,500,1700,1200,100,1200,1100,4,18,14,Harrisville
+41,41,Harrisville - Harrisville Washington Boulevard,37.95426002,700,800,100,0,200,200,19,27,8,Harrisville
+43,43,Herriman - Herriman Olympia Hills,1.560506115,0,0,0,0,0,0,0,13,13,Herriman
+44,44,Herriman - Herriman Porter Rockwell Center,117.6020713,0,2300,2300,0,2100,2100,0,37,37,Herriman
+45,45,Herriman - Herriman Town,263.9636472,100,5300,5200,100,5000,4900,1,39,38,Herriman
+46,46,Holladay - Holladay Town Center,145.238133,2500,3700,1200,400,2000,1600,20,39,19,Holladay
+47,47,Holladay - Old Mill,56.60289496,4600,4900,300,0,100,100,82,89,7,Holladay
+48,48,Kaysville - Station Park/North Station,36.18468015,0,500,500,0,300,300,2,21,19,Kaysville
+49,49,KEARNS METRO TOWNSHIP - Kearns City Center,84.07285401,700,800,100,200,400,200,11,14,3,KEARNS METRO TOWNSHIP
+50,50,Layton - Downtown Clearfield,1.707090392,0,0,0,0,0,0,11,11,0,Layton
+51,51,Layton - East Antelope Center,127.4955243,2200,2300,100,400,500,100,20,22,2,Layton
+52,52,Layton - LAYTON CRT NC,21.20109414,0,100,100,0,200,200,4,13,9,Layton
+53,53,Layton - Layton Downtown,330.5650074,1600,12700,11100,1000,6700,5700,8,59,51,Layton
+54,54,Layton - Layton Main Street,52.82257903,400,700,300,200,500,300,11,23,12,Layton
+55,55,Layton - Layton Midtown,1111.035077,14900,27600,12700,3500,10100,6600,17,34,17,Layton
+56,56,Lehi - Crossroads,0.418415724,0,0,0,0,0,0,0,5,5,Lehi
+57,57,Lehi - LEHI CRT NC,55.49409359,0,100,100,100,200,100,2,4,2,Lehi
+58,58,Lehi - Meadows,52.00069061,1100,1500,400,0,400,400,21,35,14,Lehi
+59,59,Lehi - Thanksgiving Point,700.6428677,9500,34300,24800,900,13500,12600,15,68,53,Lehi
+60,60,Lindon - Timpanogos,252.927366,300,4500,4200,0,3900,3900,1,33,32,Lindon
+61,61,Marriott-Slaterville - Ogden 12th Street,85.63430615,500,1200,700,0,700,700,6,22,16,Marriott-Slaterville
+62,62,Midvale - Bingham Junction,448.1525377,2700,9200,6500,1000,6800,5800,8,36,28,Midvale
+63,63,Midvale - BINGHAM JUNCTION LRT NC,8.226479802,0,0,0,100,100,0,17,18,1,Midvale
+64,64,"Midvale - HISTORIC GARDNER 
+ LRT NC",3.920990464,0,0,0,0,0,0,0,23,23,Midvale
+65,65,Midvale - Jordan Bluffs,202.0784443,0,4600,4600,0,4300,4300,0,44,44,Midvale
+66,66,Midvale - MIDVALE CENTER LRT NC,78.15369295,400,700,300,200,900,700,8,21,13,Midvale
+67,67,Midvale - MIDVALE FORT UNION LRT NC,89.62585664,1100,1500,400,100,800,700,14,25,11,Midvale
+68,68,Midvale - Midvale Main Street,21.82634711,300,500,200,100,200,100,18,34,16,Midvale
+69,69,Midvale - Union Park,159.0248481,3600,3800,200,1100,1500,400,29,33,4,Midvale
+70,70,Millcreek - Holladay Town Center,12.73423461,200,200,0,0,0,0,14,19,5,Millcreek
+71,71,Millcreek - MEADOWBROOK LRT NC,7.26018085,0,0,0,200,200,0,30,31,1,Millcreek
+72,72,Millcreek - Meadowbrook Station,69.74497162,900,2000,1100,200,1300,1100,16,48,32,Millcreek
+73,73,Millcreek - Millcreek 3300 South,299.1780135,3900,4600,700,1200,2200,1000,17,23,6,Millcreek
+74,74,Millcreek - Millcreek City Center,74.62392972,2000,2300,300,300,700,400,30,41,11,Millcreek
+75,75,"Millcreek - MURRAY NORTH 
+ LRT NC",0.771605252,0,0,0,0,0,0,6,29,23,Millcreek
+76,76,Millcreek - Olympus Hills Center,14.42839507,400,400,0,0,200,200,31,44,13,Millcreek
+77,77,Millcreek - State Street Center,78.37772279,1400,1900,500,0,800,800,18,34,16,Millcreek
+79,79,Murray - Bingham Junction,17.30561691,0,200,200,100,200,100,7,24,17,Murray
+80,80,"Murray - FASHION PLACE WEST 
+ LRT NC",66.21695283,400,800,400,100,700,600,8,22,14,Murray
+81,81,Murray - Meadowbrook Station,1.081385431,0,0,0,0,0,0,0,56,56,Murray
+82,82,Murray - Murray City Center,496.3298221,16900,30000,13100,700,7900,7200,35,76,41,Murray
+83,83,Murray - MURRAY CRT NC,1.17162098,0,0,0,0,0,0,4,34,30,Murray
+84,84,"Murray - MURRAY NORTH 
+ LRT NC",83.67188743,300,1200,900,500,1700,1200,10,35,25,Murray
+85,85,Murray - State Street Center,77.8111345,1200,1700,500,200,700,500,18,30,12,Murray
+86,86,Murray - Taylorsville Expressway Center,0.377843645,0,0,0,0,0,0,16,32,16,Murray
+87,87,North Ogden - Harrisville Washington Boulevard,20.70874533,0,200,200,0,100,100,3,16,13,North Ogden
+88,88,North Ogden - North Ogden Downtown,39.25123901,400,700,300,0,300,300,11,27,16,North Ogden
+89,89,North Ogden - North Ogden Southtown,22.9358278,300,400,100,0,100,100,14,24,10,North Ogden
+90,90,North Ogden - North View Center,25.00402385,400,500,100,0,100,100,16,24,8,North Ogden
+91,91,North Ogden - Pleasant View 2700 North,37.86850531,0,300,300,0,300,300,1,18,17,North Ogden
+92,92,North Salt Lake - 1100 North Center,16.96036347,700,800,100,0,100,100,44,50,6,North Salt Lake
+93,93,North Salt Lake - North Salt Lake Town Center,204.2137503,900,2700,1800,500,2300,1800,7,24,17,North Salt Lake
+94,94,Ogden - Five Points,261.8686784,2600,3800,1200,1000,1900,900,14,22,8,Ogden
+95,95,Ogden - Harrisville US 89,6.302722886,0,0,0,0,0,0,3,13,10,Ogden
+96,96,Ogden - Harrisville Washington Boulevard,28.08305522,100,200,100,200,300,100,9,20,11,Ogden
+97,97,Ogden - Ogden 12th Street,277.6894028,3300,4900,1600,400,1800,1400,13,24,11,Ogden
+98,98,Ogden - Ogden 25th Street,53.54294486,200,500,300,400,500,100,11,20,9,Ogden
+99,99,Ogden - Ogden Downtown,1740.224683,18600,45100,26500,3300,16100,12800,13,35,22,Ogden
+100,100,Ogden - Ogden Harrison Boulevard,156.705047,4500,4700,200,600,800,200,32,35,3,Ogden
+101,101,Ogden - West Haven City Center,79.27392439,200,900,700,0,700,700,2,21,19,Ogden
+102,102,Ogden - West Ogden Center,111.9924588,1300,2200,900,200,1000,800,13,29,16,Ogden
+103,103,Orem - Hillcrest,125.8089213,600,900,300,700,1000,300,10,15,5,Orem
+104,104,Orem - Orem-800 North,154.5449423,2700,3400,700,600,1300,700,21,30,9,Orem
+105,105,Orem - Orem-Center Street,207,4100,4800,700,700,1300,600,23,29,6,Orem
+106,106,Orem - OREM CENTRAL CRT NC,128,900,1900,1000,100,1300,1200,7,25,18,Orem
+107,107,Orem - University Center,578,14600,20700,6100,1500,4600,3100,28,44,16,Orem
+108,108,Orem - Vineyard,15,0,200,200,0,200,200,2,27,25,Orem
+111,111,Payson - Payson Main Street,204,1900,4400,2500,200,2400,2200,10,33,23,Payson
+112,112,Pleasant Grove - Timpanogos,138,700,3400,2700,0,2500,2500,5,42,37,Pleasant Grove
+113,113,Pleasant View - Harrisville US 89,32,0,400,400,0,400,400,3,23,20,Pleasant View
+114,114,Pleasant View - Pleasant View 2700 North,117,0,1200,1200,100,1200,1100,1,20,19,Pleasant View
+115,115,Provo - Downtown Provo,1393,36500,55800,19300,10300,19900,9600,34,54,20,Provo
+116,116,Provo - Hillcrest,301,3200,4000,800,2000,2800,800,17,23,6,Provo
+117,117,Provo - PROVO CENTRAL CRT NC,47,300,500,200,200,500,300,12,20,8,Provo
+118,118,Riverdale - Ogden Downtown,92,1100,3600,2500,0,1300,1300,13,53,40,Riverdale
+119,119,Riverdale - Riverdale City Center,381,2300,4300,2000,400,2200,1800,7,17,10,Riverdale
+120,120,Riverdale - Roy Downtown,150,2200,3700,1500,0,1400,1400,15,34,19,Riverdale
+121,121,Riverton - Downtown Riverton,206,1800,3300,1500,300,1700,1400,10,24,14,Riverton
+122,122,Riverton - Herriman Town,80,400,400,0,400,400,0,10,11,1,Riverton
+123,123,Riverton - Mountain View Village,484,400,9800,9400,100,8800,8700,1,38,37,Riverton
+124,124,Riverton - South Jordan Redwood Road,13,0,100,100,0,100,100,5,19,14,Riverton
+125,125,Roy - Midland Drive - 3500 West,168,600,1100,500,400,900,500,6,12,6,Roy
+126,126,Roy - Roy 1900 West,24,400,500,100,100,100,0,22,26,4,Roy
+127,127,Roy - ROY CRT NC,145,100,600,500,600,1200,600,4,12,8,Roy
+128,128,Roy - Roy Downtown,182,1800,2000,200,400,600,200,12,15,3,Roy
+129,129,Roy - Sunset SR 126,45,600,700,100,0,100,100,14,17,3,Roy
+130,130,Roy - West Haven 4000 South,21,100,400,300,0,200,200,8,28,20,Roy
+131,131,Roy - West Haven Midland Drive,42,0,100,100,200,300,100,5,9,4,Roy
+132,132,Roy - West Roy Town Center,150,600,700,100,300,400,100,6,7,1,Roy
+133,133,Salt Lake City - 1940 W NORTH TEMPLE LRT NC,89,2200,2800,600,400,1100,700,29,44,15,Salt Lake City
+134,134,Salt Lake City - 900 SOUTH LRT NC,58,700,900,200,400,700,300,19,27,8,Salt Lake City
+135,135,Salt Lake City - AIRPORT LRT NC,96,4200,4200,0,0,0,0,44,44,0,Salt Lake City
+136,136,Salt Lake City - Ballpark,57,600,1100,500,100,700,600,12,32,20,Salt Lake City
+137,137,Salt Lake City - BALLPARK LRT NC,45,400,500,100,200,400,200,13,20,7,Salt Lake City
+138,138,Salt Lake City - CENTRAL POINTE LRT NC,111,800,1100,300,500,1100,600,12,21,9,Salt Lake City
+139,139,Salt Lake City - Downtown South Salt Lake,3,0,100,100,0,0,0,13,38,25,Salt Lake City
+140,140,Salt Lake City - JACKSON/EUCLID LRT NC,85,200,600,400,100,600,500,4,15,11,Salt Lake City
+141,141,Salt Lake City - Millcreek City Center,50,1500,1800,300,100,500,400,30,46,16,Salt Lake City
+142,142,Salt Lake City - NORTH TEMPLE BRIDGE/GUADALUPE CRT NC,34,200,400,200,200,500,300,12,26,14,Salt Lake City
+143,143,Salt Lake City - North Temple Center,197,4400,8500,4100,400,3500,3100,24,61,37,Salt Lake City
+144,144,Salt Lake City - People's Freeway Center,125,2200,7000,4800,100,2800,2700,18,79,61,Salt Lake City
+145,145,Salt Lake City - POWER LRT NC,59,500,1100,600,0,700,700,9,31,22,Salt Lake City
+146,146,Salt Lake City - Salt Lake 900 West,96,300,1000,700,500,1100,600,8,22,14,Salt Lake City
+147,147,Salt Lake City - Salt Lake City CBD,934,73700,169400,95700,6400,40600,34200,86,225,139,Salt Lake City
+148,148,Salt Lake City - Salt Lake City East Downtown,315,15000,19000,4000,5000,7700,2700,64,85,21,Salt Lake City
+149,149,Salt Lake City - STADIUM LRT NC,74,1300,1400,100,700,700,0,27,28,1,Salt Lake City
+150,150,Salt Lake City - State Street Center,329,15400,15900,500,1600,3400,1800,52,59,7,Salt Lake City
+151,151,Salt Lake City - Sugarhouse,261,7100,9600,2500,1300,2600,1300,32,47,15,Salt Lake City
+152,152,Salt Lake City - TROLLEY LRT NC,58,1500,1600,100,700,900,200,37,42,5,Salt Lake City
+153,153,Salt Lake City - UNIVERSITY SOUTH CAMPUS LRT NC,290,12600,12600,0,100,100,0,44,44,0,Salt Lake City
+154,154,Salt Lake City - West High Center,90,1100,2200,1100,100,1300,1200,13,39,26,Salt Lake City
+155,155,Sandy - CRESCENT VIEW LRT NC,46,0,0,0,200,200,0,4,6,2,Sandy
+156,156,"Sandy - HISTORIC SANDY 
+ LRT NC",68,400,700,300,200,700,500,8,20,12,Sandy
+157,157,Sandy - SANDY CIVIC CENTER LRT NC,30,0,0,0,100,100,0,3,5,2,Sandy
+158,158,Sandy - SANDY EXPO LRT NC,37,200,300,100,100,200,100,6,12,6,Sandy
+159,159,Sandy - The Cairns,1243,23100,50000,26900,1900,16200,14300,20,53,33,Sandy
+160,160,Sandy - Union Park,78,3900,4200,300,0,200,200,51,57,6,Sandy
+161,161,Saratoga Springs - Crossroads,512,300,9500,9200,200,8700,8500,1,35,34,Saratoga Springs
+162,162,"South Jordan - 4800 W. OLD BINGHAM HWY 
+ LRT NC",27,0,0,0,100,100,0,3,5,2,South Jordan
+163,163,South Jordan - 5600 W. OLD BINGHAM HWY LRT NC,5,100,100,0,0,0,0,10,10,0,South Jordan
+164,164,South Jordan - Daybreak,495,0,10600,10600,100,9100,9000,0,40,40,South Jordan
+165,165,South Jordan - SOUTH JORDAN CRT NC,28,700,1100,400,0,500,500,26,58,32,South Jordan
+166,166,South Jordan - SOUTH JORDAN PARKWAY LRT NC,122,0,2100,2100,0,2400,2400,0,37,37,South Jordan
+167,167,South Jordan - South Jordan Redwood Road,142,1200,2300,1100,100,1200,1100,9,25,16,South Jordan
+168,168,South Jordan - The Cairns,157,2900,9500,6600,300,3600,3300,21,83,62,South Jordan
+169,169,South Ogden - Ogden Downtown,37,1000,1200,200,0,100,100,28,35,7,South Ogden
+170,170,South Ogden - Skyline Center,138,3100,3900,800,600,1200,600,27,37,10,South Ogden
+171,171,South Ogden - Washington Terrace US 89,4,0,0,0,0,0,0,8,12,4,South Ogden
+172,172,South Salt Lake - CENTRAL POINTE LRT NC,109,300,500,200,600,1000,400,8,13,5,South Salt Lake
+173,173,South Salt Lake - Downtown South Salt Lake,161,5700,7800,2100,200,2100,1900,36,61,25,South Salt Lake
+174,174,South Salt Lake - MEADOWBROOK LRT NC,15,300,300,0,0,100,100,18,27,9,South Salt Lake
+175,175,South Salt Lake - Meadowbrook Station,75,1000,2000,1000,400,1200,800,18,42,24,South Salt Lake
+176,176,South Salt Lake - MILLCREEK LRT NC,79,1000,1400,400,200,1000,800,15,30,15,South Salt Lake
+177,177,South Salt Lake - RIVER TRAIL LRT NC,4,0,0,0,0,0,0,2,10,8,South Salt Lake
+178,178,South Salt Lake - State Street Center,443,7000,9600,2600,1900,5000,3100,20,33,13,South Salt Lake
+179,179,Spanish Fork - North Park,115,2700,3700,1000,0,900,900,24,40,16,Spanish Fork
+180,180,Springville - Downtown Springville,331,2600,6100,3500,600,3900,3300,10,30,20,Springville
+181,181,Sunset - Sunset SR 126,85,1100,1500,400,200,700,500,15,27,12,Sunset
+182,182,Syracuse - Central Antelope Center,100,300,1100,800,100,900,800,4,20,16,Syracuse
+183,183,Syracuse - East Antelope Center,64,300,1000,700,100,700,600,6,26,20,Syracuse
+184,184,Syracuse - Rock Creek,70,0,1500,1500,0,1400,1400,0,42,42,Syracuse
+185,185,Syracuse - Syracuse 2000 West - North,133,400,1100,700,300,1000,700,5,16,11,Syracuse
+186,186,Syracuse - Syracuse 2000 West - South,23,0,0,0,100,100,0,3,5,2,Syracuse
+187,187,Syracuse - Syracuse City Center,139,900,1400,500,100,500,400,7,13,6,Syracuse
+188,188,Syracuse - Syracuse SR 193 Center,523,0,7200,7200,100,6800,6700,0,27,27,Syracuse
+189,189,Syracuse - West Antelope Center,65,100,400,300,100,400,300,3,11,8,Syracuse
+190,190,Taylorsville - Kearns City Center,17,200,300,100,0,200,200,14,28,14,Taylorsville
+191,191,Taylorsville - Taylorsville Expressway Center,127,3000,3100,100,600,800,200,28,31,3,Taylorsville
+192,192,Taylorsville - West Valley/Taylorsville Redwood Road Center,303,2400,3100,700,800,1700,900,11,16,5,Taylorsville
+193,193,Vineyard - Vineyard,399,100,7100,7000,0,6500,6500,0,34,34,Vineyard
+194,194,West Bountiful - WOODS CROSS CRT NC,19,100,200,100,0,200,200,3,21,18,West Bountiful
+195,195,West Haven - Midland Drive - 3500 West,65,200,1000,800,100,800,700,4,27,23,West Haven
+196,196,West Haven - West Haven 4000 South,94,100,1500,1400,100,1400,1300,2,32,30,West Haven
+197,197,West Haven - West Haven City Center,427,500,5300,4800,400,4800,4400,2,24,22,West Haven
+198,198,West Haven - West Haven Midland Drive,38,0,400,400,0,400,400,2,20,18,West Haven
+199,199,"West Jordan - 4800 W. OLD BINGHAM HWY 
+ LRT NC",47,0,0,0,100,200,100,3,5,2,West Jordan
+200,200,West Jordan - 5600 W. OLD BINGHAM HWY LRT NC,90,0,700,700,0,800,800,0,16,16,West Jordan
+201,201,West Jordan - Bingham Junction,34,0,100,100,0,100,100,0,8,8,West Jordan
+202,202,"West Jordan - HISTORIC GARDNER 
+ LRT NC",92,200,1400,1200,0,1400,1400,2,31,29,West Jordan
+203,203,West Jordan - Jordan Landing,420,5900,7900,2000,600,2400,1800,15,24,9,West Jordan
+204,204,West Jordan - Jordan Valley,126,400,2600,2200,200,1900,1700,5,36,31,West Jordan
+205,205,"West Jordan - JORDAN VALLEY 
+ LRT NC",46,200,400,200,0,300,300,5,17,12,West Jordan
+206,206,West Jordan - SUGAR FACTORY RD LRT NC,88,100,300,200,100,500,400,3,9,6,West Jordan
+207,207,West Jordan - West Jordan City Center,431,2900,7200,4300,800,5000,4200,9,28,19,West Jordan
+208,208,West Jordan - WEST JORDAN CITY CENTER LRT NC,13,0,0,0,100,100,0,6,14,8,West Jordan
+209,209,West Point - Rock Creek,15,0,100,100,0,100,100,1,18,17,West Point
+210,210,West Point - Syracuse 2000 West - North,4,0,0,0,0,0,0,0,23,23,West Point
+211,211,West Point - Syracuse SR 193 Center,7,0,0,0,0,0,0,0,0,0,West Point
+212,212,West Point - West Point 2000 West,148,100,700,600,300,800,500,2,10,8,West Point
+213,213,West Point - West Point SR 193 Center,57,0,1000,1000,100,1000,900,1,34,33,West Point
+214,214,West Valley City - 3500 South,268,3400,4500,1100,500,2000,1500,15,24,9,West Valley City
+215,215,West Valley City - DECKER LAKE LRT NC,88,1100,1400,300,500,900,400,17,27,10,West Valley City
+216,216,West Valley City - Fairbourne Station,303,7700,15400,7700,1500,6100,4600,30,71,41,West Valley City
+217,217,West Valley City - REDWOOD JUNCTION LRT NC,36,800,900,100,0,200,200,24,31,7,West Valley City
+218,218,West Valley City - RIVER TRAIL LRT NC,77,2100,2300,200,0,300,300,27,34,7,West Valley City
+219,219,West Valley City - West Valley 5600 West,448,3100,7100,4000,800,4800,4000,9,27,18,West Valley City
+220,220,West Valley City - WEST VALLEY CENTRAL LRT NC,3,0,0,0,0,0,0,4,4,0,West Valley City
+221,221,West Valley City - WVC/Taylorsville Redwood Road Center,437,5600,8200,2600,1700,4500,2800,17,29,12,West Valley City
+222,222,Woods Cross - 1100 North Center,37,300,600,300,0,300,300,7,25,18,Woods Cross
+223,223,Woods Cross - WOODS CROSS CRT NC,115,400,1100,700,300,1100,800,6,19,13,Woods Cross
+24579,24579,,34966,481600,999900,518300,83100,430700,347600,16,41,25,#VALUE!
+,,,,,,,,,,,,,
+,,City,Analysis Area Acres,Job Spaces,,,Residential Units,,,Density (Jobs+ResUnits/Acre),,,
+,,,,Existing,At Capacity,Change,Existing,At Capacity,Change,Existing,At Capacity,Change,
+,,Millcreek,557,"8,800","11,400","2,600","1,900","5,400","3,500",19,30,11,
+,,Roy,778,"4,200","6,100","1,900","2,000","3,800","1,800",8,13,5,
+,,West Valley City,"1,660","23,800","39,800","16,000","5,000","18,800","13,800",17,35,18,
+,,Layton,"1,645","19,100","43,400","24,300","5,100","18,000","12,900",15,37,23,
